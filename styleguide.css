@@ -1,0 +1,32 @@
+:root {
+    --small-text-font-family: "Inter", Helvetica;
+    --small-text-font-weight: 500;
+    --small-text-font-size: 16px;
+    --small-text-letter-spacing: 0px;
+    --small-text-line-height: 150%;
+    --small-text-font-style: normal;
+    --body-text-font-family: "Inter", Helvetica;
+    --body-text-font-weight: 500;
+    --body-text-font-size: 20px;
+    --body-text-letter-spacing: 0px;
+    --body-text-line-height: 150%;
+    --body-text-font-style: normal;
+    --subheading-font-family: "Inter", Helvetica;
+    --subheading-font-weight: 400;
+    --subheading-font-size: 24px;
+    --subheading-letter-spacing: 0px;
+    --subheading-line-height: 150%;
+    --subheading-font-style: normal;
+    --title-font-family: "Inter", Helvetica;
+    --title-font-weight: 700;
+    --title-font-size: 64px;
+    --title-letter-spacing: -1.28px;
+    --title-line-height: normal;
+    --title-font-style: normal;
+    --button-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    --variable-collection-spacing-s: 24px;
+    --variable-collection-spacing-m: 48px;
+    --variable-collection-spacing-XS: 8px;
+    --variable-collection-spacing-SM: 32px;
+  }
+  
